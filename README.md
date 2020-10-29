@@ -32,7 +32,17 @@
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/java.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png"></code>
+<code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/wordpress-9-282614.png"></code>
 
+<br>
+
+### Want To Contact Me? 📱
+
+<a href="https://www.linkedin.com/in/aniketkumarsinha/"><img height="30" src="https://www.vectorico.com/wp-content/uploads/2018/02/LinkedIn-Icon-squircle.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/AniketKSinha"><img height="30" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/aniketksinha"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://github.com/aniket-sinha8"><img height="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://medium.com/@aniketkumarsinha"><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/211_Medium_logo_logos-512.png?raw=true"></a>
 
 <br>
 
