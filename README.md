@@ -7,6 +7,7 @@
 <br>
 
 - <code><img height="12" width="18" src="https://developers.google.com/site-assets/images/home/google_developers_logo.png"></code> Web-Dev & UI/UX Designer Lead
+- <code><img height="12" width="18" src="https://studentambassadors.microsoft.com/assets/badge/level-beta.png"></code> Web-Dev & UI/UX Designer Lead
 - 🔭 I’m currently working on my skills.
 - 🌱 I’m currently learning MERN Stack.
 - 😄 Pronouns: He/Him
