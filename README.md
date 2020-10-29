@@ -34,8 +34,6 @@
 <code><img height="40" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png"></code>
 <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/wordpress-9-282614.png"></code>
 
-<br>
-
 ### Want To Contact Me? 📱
 
 <a href="https://www.linkedin.com/in/aniketkumarsinha/"><img height="30" src="https://www.vectorico.com/wp-content/uploads/2018/02/LinkedIn-Icon-squircle.png?raw=true"></a>&nbsp;&nbsp;
