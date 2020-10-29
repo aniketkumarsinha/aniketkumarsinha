@@ -4,11 +4,9 @@
 #### I am Aniket Kumar Sinha
 ##### Microsoft Learn Student Ambassador | Lead at MSC Pilani | Web-Dev & UI/UX Designer Lead at DSC BKBIET | COO at MeSqaure Media | Web Developer
 
-<br>
-
 - <code><img height="12" width="17" src="https://developers.google.com/site-assets/images/home/google_developers_logo.png"></code> Web-Dev & UI/UX Designer Lead
 - <code><img height="15" src="https://studentambassadors.microsoft.com/assets/badge/level-beta.png"></code> β - Microsoft Learn Student Ambassador
-- <code><img height="15" src="https://static.wixstatic.com/media/d181e4_d2b1cec0bff346bd9bfef79f2d18e1e7~mv2.png/v1/fill/w_228,h_174,al_c,q_85,usm_0.66_1.00_0.01/d181e4_d2b1cec0bff346bd9bfef79f2d18e1e7~mv2.webp"></code> COO at MeSquare Media
+- <code><img height="14" src="https://static.wixstatic.com/media/d181e4_d2b1cec0bff346bd9bfef79f2d18e1e7~mv2.png/v1/fill/w_228,h_174,al_c,q_85,usm_0.66_1.00_0.01/d181e4_d2b1cec0bff346bd9bfef79f2d18e1e7~mv2.webp"></code> COO at MeSquare Media
 - 🔭 I’m currently working on my skills.
 - 🌱 I’m currently learning MERN Stack.
 - 😄 Pronouns: He/Him
@@ -31,9 +29,12 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/c/c.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/java/java.png"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/java.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png"></code>
 
 
+<br>
 
 
 ![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=aniket-sinha8&show_icons=true&theme=radical)
