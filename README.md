@@ -1,3 +1,5 @@
+<center>
+  
 # Aniket Kumar Sinha
 
 ### Hello Developers 👋
@@ -52,6 +54,7 @@
 
 ### Show some ❤️ by leaving a ⭐.
 
+</center>
 <!--
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text]()-->
