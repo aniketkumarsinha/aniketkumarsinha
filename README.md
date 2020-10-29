@@ -6,8 +6,9 @@
 
 <br>
 
-- <code><img height="12" width="18" src="https://developers.google.com/site-assets/images/home/google_developers_logo.png"></code> Web-Dev & UI/UX Designer Lead
-- <code><img height="12" width="18" src="https://studentambassadors.microsoft.com/assets/badge/level-beta.png"></code> Web-Dev & UI/UX Designer Lead
+- <code><img height="12" width="17" src="https://developers.google.com/site-assets/images/home/google_developers_logo.png"></code> Web-Dev & UI/UX Designer Lead
+- <code><img height="15" src="https://studentambassadors.microsoft.com/assets/badge/level-beta.png"></code> β - Microsoft Learn Student Ambassador
+- <code><img height="15" src="https://static.wixstatic.com/media/d181e4_d2b1cec0bff346bd9bfef79f2d18e1e7~mv2.png/v1/fill/w_228,h_174,al_c,q_85,usm_0.66_1.00_0.01/d181e4_d2b1cec0bff346bd9bfef79f2d18e1e7~mv2.webp"></code> COO at MeSquare Media
 - 🔭 I’m currently working on my skills.
 - 🌱 I’m currently learning MERN Stack.
 - 😄 Pronouns: He/Him
