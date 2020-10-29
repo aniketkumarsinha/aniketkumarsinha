@@ -38,7 +38,7 @@
 
 ### Want To Contact Me? 📱
 
-<a href="https://www.linkedin.com/in/aniketkumarsinha/"><img height="30" src="https://www.vectorico.com/wp-content/uploads/2018/02/LinkedIn-Icon-squircle.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/aniketkumarsinha/"><img height="30" src="https://www.vectorico.com/wp-content/uploads/2018/02/LinkedIn-Icon-squircle.png?raw=true" target="_blank"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/AniketKSinha"><img height="30" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/aniketksinha"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://github.com/aniket-sinha8"><img height="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png?raw=true"></a>&nbsp;&nbsp;
