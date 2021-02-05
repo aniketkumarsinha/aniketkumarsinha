@@ -50,6 +50,7 @@
 
 ![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=aniket-sinha8&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-sinha8&layout=compact&theme=radical)
+<img src="https://komarev.com/ghpvc/?username=aniket-sinha8" alt="aniket-sinha8" />
 
 ### Show some ❤️ by leaving a ⭐.
 
