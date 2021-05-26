@@ -49,6 +49,7 @@
 
 
 ![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=aniket-sinha8&show_icons=true&theme=radical)
+[![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniket-sinha8)](https://github.com/aniket-sinha8/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-sinha8&layout=compact&theme=radical)
 <p align="left"><img src="https://komarev.com/ghpvc/?username=aniket-sinha8&color=fc418d" alt="aniket-sinha8" /></p>
 
