@@ -14,7 +14,7 @@
 
 <br>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket-sinha8" alt="aniket-sinha8" /> </p> -->
+
 
 
 
@@ -50,28 +50,20 @@
 
 ![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=aniket-sinha8&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-sinha8&layout=compact&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aniket-sinha8&theme=radical)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aniket-sinha8&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <p align="left"><img src="https://komarev.com/ghpvc/?username=aniket-sinha8&color=fc418d" alt="aniket-sinha8" /></p>
+
+<p><a href="https://www.buymeacoffee.com/aniketksinha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aniketksinha" /></a></p><br><br>
+
+  
+
+
+
+
 
 ### Show some ❤️ by leaving a ⭐.
 
 </center>
-<!--
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text]()-->
-<!--
-http://github.com - automatic!
-[GitHub](http://github.com)
-<!--
-**aniket-sinha8/aniket-sinha8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
