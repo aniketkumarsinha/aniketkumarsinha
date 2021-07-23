@@ -6,8 +6,9 @@
 #### I am Aniket Kumar Sinha
 ##### Microsoft Learn Student Ambassador | Lead at MSC Pilani | Web-Dev & UI/UX Designer Lead at DSC BKBIET | COO at MeSqaure Media | Web Developer
 
+- <code><img height="15" src="https://pbs.twimg.com/profile_images/1182361454072209408/VEaUkAkk_400x400.png"></code> Google Developer Student Club Lead
 - <code><img height="15" src="https://studentambassadors.microsoft.com/Assets/Badge/LevelBeta.png"></code> β - Microsoft Learn Student Ambassador
-- <code><img height="14" src="https://static.wixstatic.com/media/d181e4_d2b1cec0bff346bd9bfef79f2d18e1e7~mv2.png/v1/fill/w_228,h_174,al_c,q_85,usm_0.66_1.00_0.01/d181e4_d2b1cec0bff346bd9bfef79f2d18e1e7~mv2.webp"></code> COO at MeSquare Media
+- <code><img height="15" src="https://media.badgr.com/uploads/badges/assertion-9g67L4phRbiP2TFagqJGlw.png"></code> Postman Student Expert
 - 🔭 I’m currently working on my skills.
 - 🌱 I’m currently learning MERN Stack.
 - 😄 Pronouns: He/Him
@@ -31,11 +32,12 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/c/c.png"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/java.svg"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></code>
+<code><img height="40" src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png"></code>
 <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/wordpress-9-282614.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/firebase/firebase.png"></code>
 <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg"></code>
+<code><img height="40" width="40" src="https://pbs.twimg.com/media/E00JLeSVkAIY5Yf.png:large"></code>
 
 <br>
 
@@ -43,9 +45,10 @@
 
 <a href="https://www.linkedin.com/in/aniketkumarsinha/"><img height="30" src="https://www.vectorico.com/wp-content/uploads/2018/02/LinkedIn-Icon-squircle.png?raw=true" target="_blank"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/AniketKSinha"><img height="30" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/aniketksinha"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/aniketksinha"><img height="30" src="https://www.freepnglogos.com/uploads/instagram-logos-png-images-free-download-2.png"></a>&nbsp;&nbsp;
 <a href="https://github.com/aniket-sinha8"><img height="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://medium.com/@aniketkumarsinha"><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/211_Medium_logo_logos-512.png?raw=true"></a>
+<a href="https://medium.com/@aniketkumarsinha"><img height="30" src="https://cdn.worldvectorlogo.com/logos/monogram-medium.svg"></a>
+<a href="https://www.youtube.com/channel/UCEDK0r0TfURa1vYZ4sMW0jw"><img height="30" src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg"></a>
 
 <br>
 
