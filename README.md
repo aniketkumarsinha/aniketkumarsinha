@@ -4,13 +4,12 @@
 
 ### Hello Developers 👋
 #### I am Aniket Kumar Sinha
-##### Microsoft Learn Student Ambassador | Lead at MSC Pilani | Web-Dev & UI/UX Designer Lead at DSC BKBIET | COO at MeSqaure Media | Web Developer
+##### Gold Microsoft Learn Student Ambassador | Google Developer Student Club Lead | Microsoft Certified | Web Developer
 
 - <code><img height="15" src="https://pbs.twimg.com/profile_images/1182361454072209408/VEaUkAkk_400x400.png"></code> Google Developer Student Club Lead
-- <code><img height="15" src="https://studentambassadors.microsoft.com/Assets/Badge/LevelBeta.png"></code> β - Microsoft Learn Student Ambassador
+- <code><img height="15" src="https://studentambassadors.microsoft.com/Assets/Badge/LevelGold.png"></code> Gold - Microsoft Learn Student Ambassador
 - <code><img height="15" src="https://media.badgr.com/uploads/badges/assertion-9g67L4phRbiP2TFagqJGlw.png"></code> Postman Student Expert
 - 🔭 I’m currently working on my skills.
-- 🌱 I’m currently learning MERN Stack.
 - 😄 Pronouns: He/Him
 
 <br>
