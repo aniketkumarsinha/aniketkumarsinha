@@ -4,12 +4,10 @@
 
 ### Hello Developers 👋
 #### I am Aniket Kumar Sinha
-##### Gold Microsoft Learn Student Ambassador | Google Developer Student Club Lead | Microsoft Certified | Web Developer
+##### Cloud Consultant at Rapid Circle | Gold Microsoft Learn Student Ambassador
 
-- <code><img height="15" src="https://pbs.twimg.com/profile_images/1182361454072209408/VEaUkAkk_400x400.png"></code> Google Developer Student Club Lead
 - <code><img height="15" src="https://studentambassadors.microsoft.com/Assets/Badge/LevelGold.png"></code> Gold - Microsoft Learn Student Ambassador
-- <code><img height="15" src="https://media.badgr.com/uploads/badges/assertion-9g67L4phRbiP2TFagqJGlw.png"></code> Postman Student Expert
-- 🔭 I’m currently working on my skills.
+- <code><img height="15" src="https://pbs.twimg.com/profile_images/1182361454072209408/VEaUkAkk_400x400.png"></code> Google Developer Student Club Lead
 - 😄 Pronouns: He/Him
 
 <br>
