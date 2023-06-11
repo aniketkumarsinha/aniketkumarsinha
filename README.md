@@ -52,8 +52,6 @@
 
 ![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=aniketkumarsinha&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketkumarsinha&layout=compact&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aniketkumarsinha&theme=radical)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=aniketkumarsinha&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=aniket-sinha8&color=fc418d" alt="aniket-sinha8" /></p>
