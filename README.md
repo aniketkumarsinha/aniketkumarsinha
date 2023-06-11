@@ -16,9 +16,9 @@
 
 
 
-### I am familar with:
+<!-- ### I am familar with: -->
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<!-- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -35,7 +35,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/firebase/firebase.png"></code>
 <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg"></code>
 <code><img height="40" width="40" src="https://pbs.twimg.com/media/E00JLeSVkAIY5Yf.png:large"></code>
-
+ -->
 <br>
 
 ### Follow me on:
@@ -44,10 +44,12 @@
 <a href="https://twitter.com/AniketKSinha"><img height="30" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/aniketksinha"><img height="30" src="https://www.freepnglogos.com/uploads/instagram-logos-png-images-free-download-2.png"></a>&nbsp;&nbsp;
 <a href="https://github.com/aniketkumarsinha"><img height="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://medium.com/@aniketkumarsinha"><img height="30" src="https://cdn.worldvectorlogo.com/logos/monogram-medium.svg"></a>
+<a href="https://dev.to/aniketkumarsinha"><img height="30" src="https://res.cloudinary.com/practicaldev/image/fetch/s--AOunT8g5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png"></a>
 <a href="https://www.youtube.com/channel/UCEDK0r0TfURa1vYZ4sMW0jw"><img height="30" src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg"></a>
 
 <br>
+  
+  
 
 
 ![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=aniketkumarsinha&show_icons=true&theme=radical)
